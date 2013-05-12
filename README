@@ -1,0 +1,9 @@
+Written in Java for COMS 1007. 
+
+Battleship for two players:
+
+Two humans
+Two computer players
+One human and one computer player.
+
+Currently the strategy for the computer players is quite unintelligent. They shoot at random, and repick a coordinate if it has already been shot at.
